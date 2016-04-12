@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/xamlrenderingbackgroundtaskdemo/v14
+/ARM/Debug/BackgroundTask
+/BackgroundTask/Debug
+/BackgroundTask/ARM/Debug
+/Debug/BackgroundTask
+/ipch/BACKGROUNDTASK-a9f970d
+/xamlrenderingbackgroundtaskdemo/bin
+/xamlrenderingbackgroundtaskdemo/obj
+*.user
+/xamlrenderingbackgroundtaskdemo.sdf
+/xamlrenderingbackgroundtaskdemo.VC.opendb
